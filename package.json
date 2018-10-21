@@ -1,0 +1,23 @@
+{
+    "name": "Atmotube-BLE-Connection-Test",
+    "version": "1.0.0",
+    "description": "A simple test to connect an Atmotube device using plain JS and Web Bluetooth API",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html --https"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/katharinakoal/Atmotube-BLE-Connection-Test.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/katharinakoal/Atmotube-BLE-Connection-Test/issues"
+    },
+    "homepage": "https://github.com/katharinakoal/Atmotube-BLE-Connection-Test#readme",
+    "devDependencies": {
+        "parcel-bundler": "^1.10.3"
+    }
+}
